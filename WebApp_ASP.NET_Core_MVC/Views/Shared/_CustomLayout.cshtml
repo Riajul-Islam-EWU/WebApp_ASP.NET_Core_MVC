@@ -10,9 +10,16 @@
 <body>
     <partial name="_TopNavPartial" />
     <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+        <div class="row">
+            <div class="col-md-3">
+                <img src="~/images/laptop.asus.jpg" width="100%" />
+            </div>
+            <div class="col-md-9">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
     </div>
 
     <footer class="border-top footer text-muted">

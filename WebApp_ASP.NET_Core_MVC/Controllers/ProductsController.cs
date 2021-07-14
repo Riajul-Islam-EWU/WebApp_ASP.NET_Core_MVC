@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ using WebApp_ASP.NET_Core_MVC.Models;
 
 namespace WebApp_ASP.NET_Core_MVC.Controllers
 {
+    [Authorize]
     public class ProductsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -19,6 +21,7 @@ namespace WebApp_ASP.NET_Core_MVC.Controllers
             _context = context;
         }
 
+        [AllowAnonymous]
         // GET: Products
         public async Task<IActionResult> Index()
         {
