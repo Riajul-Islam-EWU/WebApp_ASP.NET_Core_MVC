@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApp_ASP.NET_Core_MVC.Data;
 using WebApp_ASP.NET_Core_MVC.Models;
 
 namespace WebApp_ASP.NET_Core_MVC.Controllers
@@ -12,14 +13,17 @@ namespace WebApp_ASP.NET_Core_MVC.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
+            ViewBag.Data = _context.Categories.ToList();
             return View();
         }
 

@@ -167,3 +167,15 @@ F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\ob
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TopNavPartial.cshtml.g.cs
