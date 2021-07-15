@@ -1,0 +1,81 @@
+﻿@model WebApp_ASP.NET_Core_MVC.Models.OrderVM
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_CustomLayout.cshtml";
+
+    decimal grandtotal = 0;
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderStatus)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderStatus)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Customer)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Customer.FullName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Order.OrderID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<hr />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Unit Price</th>
+            <th>Quantity</th>
+            <th>Sub Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Order.OrderItems)
+        {
+        <tr>
+            <td>@item.Product.ProductName</td>
+            <td>@item.Product.UnitPrice</td>
+            <td>@item.OrderQuantity</td>
+            <td>@(item.Product.UnitPrice*item.OrderQuantity)</td>
+        </tr>
+
+            grandtotal+=(item.Product.UnitPrice * item.OrderQuantity);
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <th colspan="3" class="text-right">
+                Grand Total:
+            </th>
+            <th>
+                @grandtotal
+            </th>
+        </tr>
+    </tfoot>
+</table>

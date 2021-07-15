@@ -179,3 +179,13 @@ F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\ob
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TopNavPartial.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Create.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Delete.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Details.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Edit.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Index.cshtml.g.cs
