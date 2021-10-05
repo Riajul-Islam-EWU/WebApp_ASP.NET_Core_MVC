@@ -189,3 +189,5 @@ F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\ob
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Details.cshtml.g.cs
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Edit.cshtml.g.cs
 F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderItems\Index.cshtml.g.cs
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\obj\Debug\netcoreapp3.1\WebApp_ASP.NET_Core_MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job\ASP.NET Core MVC\Day 2\WebApp_ASP.NET_Core_MVC\WebApp_ASP.NET_Core_MVC\bin\Debug\netcoreapp3.1\libman.json

@@ -17,6 +17,7 @@ namespace WebApp_ASP.NET_Core_MVC.Models
         public decimal UnitPrice { get; set; }
         public string ProductDetails { get; set; }
         public string ProductImage { get; set; }
+        public string DisplaySize { get; set; }
         public bool isActive { get; set; }
 
         public virtual Category Category { get; set; }
